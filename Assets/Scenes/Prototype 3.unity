@@ -583,6 +583,10 @@ PrefabInstance:
       value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 8132323138360950006, guid: b186f9485a0828b468f98fe846ae1a68, type: 3}
+      propertyPath: dropSound
+      value: 
+      objectReference: {fileID: 8300000, guid: e7ee25a47d63b46cdaf65480d62b405c, type: 3}
+    - target: {fileID: 8132323138360950006, guid: b186f9485a0828b468f98fe846ae1a68, type: 3}
       propertyPath: jumpForce
       value: 600
       objectReference: {fileID: 0}

@@ -67,7 +67,6 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Challenge 3\Scripts\RepeatBackgroundX.cs" />
     <Compile Include="Assets\Challenge 3\Scripts\PlayerControllerX.cs" />
-    <Compile Include="Assets\Challenge 3\_Source_Files\SpinObjectsX.cs" />
     <Compile Include="Assets\Scripts\MoveLeft.cs" />
     <Compile Include="Assets\Scripts\SpawnManager.cs" />
     <Compile Include="Assets\Challenge 3\Scripts\SpawnManagerX.cs" />
