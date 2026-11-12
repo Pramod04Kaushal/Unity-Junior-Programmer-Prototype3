@@ -61,11 +61,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.25f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Challenge 3\Scripts\MoveLeftX.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RepeatBackground.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Challenge 3\Scripts\RepeatBackgroundX.cs" />
+    <Compile Include="Assets\Challenge 3\Scripts\PlayerControllerX.cs" />
+    <Compile Include="Assets\Challenge 3\_Source_Files\SpinObjectsX.cs" />
     <Compile Include="Assets\Scripts\MoveLeft.cs" />
     <Compile Include="Assets\Scripts\SpawnManager.cs" />
+    <Compile Include="Assets\Challenge 3\Scripts\SpawnManagerX.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Course Library\_Source_Files\Materials\UnlitVertexColour_Alpha.shader" />

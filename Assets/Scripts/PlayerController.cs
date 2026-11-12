@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     public AudioClip jumpSound;
     public AudioClip crashSound;
 
+
     public float jumpForce = 10f;
     public float gravityModifier;
 
@@ -53,6 +54,7 @@ public class PlayerController : MonoBehaviour
         {
             isOnGround = true;
             dirtParticle.Play();
+
         }
         else if (collision.gameObject.CompareTag("Obstacle"))
         {
